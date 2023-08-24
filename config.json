@@ -1,0 +1,7 @@
+{
+    "tele_notif": false,
+    "term_no": 2,
+    "golestan_login_url": "https://education.cfu.ac.ir/forms/authenticateuser/main.htm",
+    "sms_notif": false,
+    "refresh_rate": 3
+}
